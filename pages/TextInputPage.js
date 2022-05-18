@@ -1,6 +1,4 @@
 class TextInputPage {
-    let 
-
     get NewButtonName() {
         return this.page.locator('#newButtonName');
     }
