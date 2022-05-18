@@ -7,7 +7,8 @@ const config = {
       viewport: { width: 1280, height: 720 },
       ignoreHTTPSErrors: true,
       video: 'on-first-retry',
-      baseURL: 'http://uitestingplayground.com'
+      baseURL: 'http://uitestingplayground.com',
+      trace: 'on'
     },
   };
   
